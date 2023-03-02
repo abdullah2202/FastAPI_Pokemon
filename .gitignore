@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.$py.class
+
+.Python
+build/
+MANIFEST
+
+.pytest_cache/
+.venv/
+.vscode/
