@@ -7,5 +7,7 @@ build/
 MANIFEST
 
 .pytest_cache/
+.cache
+
 .venv/
 .vscode/
